@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>C:\Users\mike\Documents\avr\test1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mike\Documents\avr\test1\test1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mike\Documents\avr\test1\test1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\mike\Documents\avr\test1\test1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\mike\Documents\avr\test1\test1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>210</LINE></RESET>
+  <TIM0><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>31</LINE></TIM0>
+  <TIM1><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>66</LINE></TIM1>
+  <TCNT><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>325</LINE></TCNT>
+  <ANALOGCNT><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>327</LINE></ANALOGCNT>
+  <LEDON><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>326</LINE></LEDON>
+  <ANALOGOFF><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>84</LINE></ANALOGOFF>
+  <ANALOGDONE><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>90</LINE></ANALOGDONE>
+  <DELAY><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>104</LINE></DELAY>
+  <LPDEL><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>135</LINE></LPDEL>
+  <OUTBYTE><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>160</LINE></OUTBYTE>
+  <OUTNUM><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>167</LINE></OUTNUM>
+  <LPDIG2><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>172</LINE></LPDIG2>
+  <OUTDIG2><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>177</LINE></OUTDIG2>
+  <LPDIG1><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>185</LINE></LPDIG1>
+  <OUTDIG1><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>190</LINE></OUTDIG1>
+  <LPDIG0><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>197</LINE></LPDIG0>
+  <lp><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>287</LINE></lp>
+  <WAITADC><FILE>C:\Users\mike\Documents\avr\test1\test1.asm</FILE><LINE>297</LINE></WAITADC>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>C:\Users\user\Documents\avr\test1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\user\Documents\avr\test1\TEST1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\user\Documents\avr\test1\TEST1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\user\Documents\avr\test1\TEST1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\user\Documents\avr\test1\TEST1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\user\Documents\avr\test1\TEST1.asm</FILE><LINE>87</LINE></reset>
+  <timer0><FILE>C:\Users\user\Documents\avr\test1\TEST1.asm</FILE><LINE>119</LINE></timer0>
+  <uart_rx><FILE>C:\Users\user\Documents\avr\test1\TEST1.asm</FILE><LINE>115</LINE></uart_rx>
+  <tcnt><FILE>C:\Users\user\Documents\avr\test1\TEST1.asm</FILE><LINE>132</LINE></tcnt>
+  <loop><FILE>C:\Users\user\Documents\avr\test1\TEST1.asm</FILE><LINE>112</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
