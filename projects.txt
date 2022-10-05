@@ -1,0 +1,14 @@
+linex - lines find path -> 44780, working ok in proteus
+
+44780 - test1 without src, smth read from adc, test2 - fuckoff to 44780, timer ctr to serial
+
+calcworking - calc+anti bounce
+calctest - experimenents with 44780
+
+flashlight - hello world with bugs
+
+testili - lines
+testc_ili - ili c library test
+testc_progmem - progmem experiments
+
+adc_pwdled_uart - read adc -> uart in loop, light LED with PWM, another LED indicate button press, and another one - blinks one time a sec 

@@ -13,6 +13,10 @@ READSYM:
 ldi temp,0b01111111
 
 out PORTD,temp
+nop     //delay, 8MHz value
+nop
+nop
+nop
 in value,PIND
 
 lsr value
@@ -42,6 +46,10 @@ ret
 RS2:
 ldi temp,0b10111111
 out PORTD,temp
+nop
+nop
+nop
+nop
 in value,PIND
 
 lsr value
@@ -71,6 +79,10 @@ ret
 RS3:
 ldi temp,0b11011111
 out PORTD,temp
+nop
+nop
+nop
+nop
 in value,PIND
 
 lsr value
